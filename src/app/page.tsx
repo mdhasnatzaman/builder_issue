@@ -24,7 +24,7 @@ const runCommand = () => {
   });
 };
 
-runCommand();
+//runCommand();
 
 export default function Home() {
   return (
@@ -36,8 +36,8 @@ export default function Home() {
         
           Get started by editing&nbsp;
           
-          <code>{status}</code>
-          <code>{error}</code> 
+          {/* <code>{status}</code>
+          <code>{error}</code>  */}
         
         </p>
         
